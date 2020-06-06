@@ -1,3 +1,6 @@
+#This repo is for LaTeX documents.
+##Please don't commit auxiliary files, logs etc. Only the source documents, *.tex, *.bib, figures
+
 # 2020-Fluid-flow-and-humidity-in-the-ATLAS-ITk-studied-by-CFD
 
 ## Getting started
