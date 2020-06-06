@@ -1,5 +1,5 @@
-#This repo is for LaTeX documents.
-##Please don't commit auxiliary files, logs etc. Only the source documents, *.tex, *.bib, figures
+# This repo is for LaTeX documents.
+## Please don't commit auxiliary files, logs etc. Only the source documents, *.tex, *.bib, figures
 
 tutorial  ....    https://www.tutorialspoint.com/git/index.htm
 
